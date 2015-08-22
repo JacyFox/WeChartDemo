@@ -24,7 +24,7 @@
 }
 
 - (IBAction)WeChartBtn {
-    
+    // wwwwwwwwwwwwwwwwwwwwwww
     appDele = [[AppDelegate alloc] init];
     [appDele sendPay_demo:self.textFiled.text Price:self.textFiled.text];
 
